@@ -1,1 +1,1 @@
-# demo
+# my-new-project
